@@ -1,0 +1,2 @@
+%python
+Print("Azure Databricks")
